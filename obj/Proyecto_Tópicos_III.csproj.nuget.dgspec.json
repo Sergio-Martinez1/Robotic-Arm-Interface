@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/sergiod/Bridge/University Projects/Proyecto_Tópicos_III/Proyecto_Tópicos_III.csproj": {}
+  },
+  "projects": {
+    "/media/sergiod/Bridge/University Projects/Proyecto_Tópicos_III/Proyecto_Tópicos_III.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/sergiod/Bridge/University Projects/Proyecto_Tópicos_III/Proyecto_Tópicos_III.csproj",
+        "projectName": "Proyecto_Tópicos_III",
+        "projectPath": "/media/sergiod/Bridge/University Projects/Proyecto_Tópicos_III/Proyecto_Tópicos_III.csproj",
+        "packagesPath": "/home/sergiod/.nuget/packages/",
+        "outputPath": "/media/sergiod/Bridge/University Projects/Proyecto_Tópicos_III/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/home/sergiod/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Server.IISIntegration": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Microsoft.AspNetCore.Server.Kestrel": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

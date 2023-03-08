@@ -1,0 +1,20 @@
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/bin/Debug/Proyecto_Tópicos_III.exe.config
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/bin/Debug/Proyecto_Tópicos_III.exe
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/bin/Debug/Proyecto_Tópicos_III.pdb
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/obj/Debug/Proyecto_Tópicos_III.csprojAssemblyReference.cache
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/obj/Debug/Proyecto_Tópicos_III.Form1.resources
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/obj/Debug/Proyecto_Tópicos_III.Properties.Resources.resources
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/obj/Debug/Proyecto_Tópicos_III.csproj.GenerateResource.cache
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/obj/Debug/Proyecto_Tópicos_III.csproj.CoreCompileInputs.cache
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/obj/Debug/Proyecto_Tópicos_III.exe
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/obj/Debug/Proyecto_Tópicos_III.pdb
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/bin/Debug/DocumentFormat.OpenXml.dll
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/bin/Debug/SpreadsheetLight.dll
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/bin/Debug/System.Drawing.Common.dll
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/bin/Debug/System.IO.Packaging.dll
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/bin/Debug/DocumentFormat.OpenXml.xml
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/bin/Debug/SpreadsheetLight.xml
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/bin/Debug/System.IO.Packaging.xml
+C:/Users/SDMG/source/repos/Proyecto_Tópicos_III/obj/Debug/Proyecto_Tópicos_III.csproj.CopyComplete
+/media/sergiod/Bridge/University Projects/Proyecto_Tópicos_III/obj/Debug/Proyecto_Tópicos_III.exe
+/media/sergiod/Bridge/University Projects/Proyecto_Tópicos_III/obj/Debug/Proyecto_Tópicos_III.pdb
